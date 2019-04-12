@@ -27,7 +27,7 @@ import { isNull } from 'util';
 
         console.log(this.state.user_name);
         console.log(this.state.user_age);
-        console.log(this.state.user_age);
+        
 
     if(this.state.user_name !== '' && this.state.user_age !== '' && document.getElementById("male").checked ||  document.getElementById("female").checked){
                 
